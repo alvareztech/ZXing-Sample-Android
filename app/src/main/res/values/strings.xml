@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZXing Sample</string>
+    <string name="read">Read</string>
+    <string name="white">Write</string>
+    <string name="write">Write</string>
+    <string name="scanning_content">Scanning content</string>
+</resources>
