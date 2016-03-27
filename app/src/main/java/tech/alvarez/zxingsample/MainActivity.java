@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 //        IntentIntegrator integrator = new IntentIntegrator(this);
 //        integrator.shareText("http://alvarez.tech", "TEXT_TYPE");
 
+        
         // EMAIL_TYPE, PHONE_TYPE, SMS_TYPE
     }
 
